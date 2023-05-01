@@ -1,3 +1,7 @@
+<div align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
+</div>
+
 # Projeto: Landing Page
 
 Aprendendo esté projeto através do Youtube pelo canal <a href="https://www.youtube.com/@OneBitCode" target="_blank" > OneBitCode </a>
@@ -29,7 +33,7 @@ Aprendendo esté projeto através do Youtube pelo canal <a href="https://www.you
  <img src="https://user-images.githubusercontent.com/123023440/235487984-97515b53-60a2-487f-bac6-2b5555ef0cde.png">
 </div>
 
-## 🧑🏾‍💻 Tecnologias
+## 🧑🏾‍💻 Ferramentas Utilizadas
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -37,7 +41,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - ✔️ CSS
 
-### Sobre mim
+## 📂Acesso ao Projeto
+
+Você pode acessar o projeto <a href="https://eolima.github.io/Projeto_LandingPage_OneBitCode/" target="_blank" > aqui </a>
+
+### Contate-me
 
 <div>
   <a href="https://instagram.com/lucasl.ima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
