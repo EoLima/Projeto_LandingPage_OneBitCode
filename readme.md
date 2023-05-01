@@ -4,7 +4,7 @@
 
 # Projeto: Landing Page
 
-Aprendendo esté projeto através do Youtube pelo canal <a href="https://www.youtube.com/@OneBitCode" target="_blank" > OneBitCode </a>
+Aprendendo esté projeto através do Youtube pelo canal <a href="https://www.youtube.com/@OneBitCode" target="_blank" > OneBitCode </a>.
 
 # 📷 Versão Web
 
@@ -15,7 +15,7 @@ Aprendendo esté projeto através do Youtube pelo canal <a href="https://www.you
  <img src="https://user-images.githubusercontent.com/123023440/235485155-224e0d55-4d13-490c-878a-b73ddd6b221c.png">
 </div>
 
-# 📷 Versão Moblie
+# 📷 Versão Mobile
 
 <div align="center" >
  <img src="https://user-images.githubusercontent.com/123023440/235487985-03c02fb5-8ab1-42f1-bb41-970dfc96120b.png">
@@ -43,7 +43,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📂Acesso ao Projeto
 
-Você pode acessar o projeto <a href="https://eolima.github.io/Projeto_LandingPage_OneBitCode/" target="_blank" > aqui </a>
+Você pode acessar o projeto <a href="https://eolima.github.io/Projeto_LandingPage_OneBitCode/" target="_blank" > aqui </a>.
 
 ### Contate-me
 
